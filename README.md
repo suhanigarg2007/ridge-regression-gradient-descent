@@ -2,6 +2,10 @@
 
 This is my work that explores Ridge Regression implemented from scratch using Gradient Descent and compares the results with scikit-learn's Ridge regression model.
 
+## Credits
+
+The Ridge Regression implementation in this repository is based on the CampusX tutorial on Ridge Regression using Gradient Descent. I followed this tutorial to learn the concepts and code.
+
 ## Ridge Regression Results Comparison
 
 ### Custom Implementation (Gradient Descent)
